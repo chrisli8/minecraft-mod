@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cglmod",
+  "name": "Chris' Mod",
+  "description": "My first mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Chris Li",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

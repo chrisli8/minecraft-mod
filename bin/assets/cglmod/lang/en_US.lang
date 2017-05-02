@@ -1,0 +1,8 @@
+tile.cglmod_oreRuby.name=Ruby Oretile.cglmod_oreSaphire.name=Saphire Oretile.cglmod_oreAmethyst.name=Amethyst Ore
+tile.cglmod_blockRuby.name=Block of Ruby
+tile.cglmod_blockSaphire.name=Block of Saphire
+tile.cglmod_blockAmethyst.name=Block of Amethystitem.cglmod_ruby.name=Ruby
+item.cglmod_saphire.name=Saphire
+item.cglmod_amethyst.name=Amethystitem.cglmod_swordIronRuby.name=Blood Thirsteritem.cglmod_swordIronAmethyst.name=Soul Eateritem.cglmod_swordIronSaphire.name=Shadow Slasheritem.cglmod_swordIronEmerald.name=Plague Defileritem.cglmod_swordIronDiamond.name=Thunder Lorditem.cglmod_hatchetIronAmethyst.name=Tree Falleritem.cglmod_hatchetIronEmerald.name=Petrifying Axe
+item.cglmod_bowEmerald.name=Emerald Bow
+item.cglmod_swordAmethystRuby.name=Void ReaveritemGroup.gemsTab=Rubytile.cglmod_testBlock.name=Test Block
